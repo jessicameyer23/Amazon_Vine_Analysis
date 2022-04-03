@@ -20,7 +20,7 @@ There were a total of 4,822,408 non-paid reviews as noted in the image below.
 
 There were a total of 17,071 5 star vine reviews as noted in the image below.
 
-![image_name](https://github.com/jessicameyer23/MechaCar_Statistical_Analysis/blob/main/deliverable%201%20image%202022-03-27%20090146.png)
+![image_name](https://github.com/jessicameyer23/Amazon_Vine_Analysis/blob/main/Images/paid%205%20star%20review%20count%202022-04-03%20152149.png)
 
 **4.  % of Vine Reviews that were 5 Stars:**
 
