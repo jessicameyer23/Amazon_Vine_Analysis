@@ -26,7 +26,7 @@ There were a total of 17,071 5 star vine reviews as noted in the image below.
 
 41% of vine reviews were were 5 stars as noted in image below.  
 
-![image_name](https://github.com/jessicameyer23/Amazon_Vine_Analysis/blob/main/Images/unpaid%20five%20start%20review%20count2022-04-03%20151953.png)
+![image_name](https://github.com/jessicameyer23/Amazon_Vine_Analysis/blob/main/Images/%25%20of%205%20start%20for%20paid.vine%20reviews%202022-04-03%20152149.png)
 
 **5.  Number of 5 Star Non-Vine Reviews**
 
