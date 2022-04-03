@@ -44,6 +44,7 @@ There were a total of 17,071 5 star vine reviews as noted in the image below.
 
 
 **##Summary **
+
 There doesn't appear to be a great bias towards positive reviews based on whether respondents were paid as the percentages of 5 star reviews for paid reviews was only 40% and the 5 star ratings for unpaid reviews was 63%.   
 
 Additional items to check:
