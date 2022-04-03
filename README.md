@@ -7,7 +7,7 @@ The purpose of this project is to analyze Amazon reviews to determine if there i
 
 There were a total of 41,835 Vine (paid) reviews as noted in the image below.
 
-![image_name](https://github.com/jessicameyer23/MechaCar_Statistical_Analysis/blob/main/deliverable%201%20image%202022-03-27%20090146.png)
+![image_name](https://github.com/jessicameyer23/Amazon_Vine_Analysis/blob/main/Images/Total%20%20count%20of%20Vine%20paid%20reviews2022-04-03%20151953.png)
 
 **2.  # Number of Non-Vine Reviews**
 
